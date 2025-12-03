@@ -1,4 +1,4 @@
-##Hi there 👋
+Hi there 👋 My name is Fayas Fais, and I’m a tech-driven project manager in training, passionate about systems, teamwork, and real-world problem-solving.
 
 🔭 I’m currently working on:
 Strengthening my portfolio with real-world software projects and sharpening my project management skill set.
@@ -16,13 +16,8 @@ Finding internship opportunities in Project Management, Project Coordination, an
 Networking, system design basics, team coordination, academic project execution, or how to survive an HND while still levelling up.
 
 📫 How to reach me:
-Fayasfais44t@email.com
+Fayasfais44@email.com
 www.linkedin.com/in/fayas-fais-8bb84630a
-
-
-
-😄 Pronouns:
-He/Him
 
 ⚡ Fun fact:
 I graduated my HND at 19, built working systems before touching any top-up degree, and still pull off aesthetic vibes while debugging at 2AM.
